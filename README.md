@@ -22,7 +22,7 @@ My aim is to combine analytical thinking, clear communication and practical secu
 
 ## Cybersecurity training
 
-I am undertaking a **10-week cybersecurity training programme**, scheduled for four hours a day, Monday to Friday—approximately **200 hours of structured teaching**.
+I have undertaking and concluded a **10-week cybersecurity training programme**, scheduled for four hours a day, Monday to Friday—approximately **200 hours of structured teaching**.
 
 The programme combines classroom learning, practical demonstrations, guided exercises and independent study. My learning record includes TryHackMe rooms and exercises covering:
 
