@@ -1,0 +1,5 @@
+finding_id,asset,asset_criticality,exposure,cvss,exploit_context,control_strength,summary
+LUMA-001,Public checkout API,5,internet-facing,8.1,credible-public-exploit,partial,Illustrative validation required before treatment decision
+LUMA-002,Warehouse support host,4,internal,7.5,no-known-exploit,strong,Illustrative configuration and patch review
+LUMA-003,Training application,1,isolated,9.0,no-known-exploit,strong,Illustrative low-business-impact example
+
