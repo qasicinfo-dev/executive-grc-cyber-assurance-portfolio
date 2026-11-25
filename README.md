@@ -1,45 +1,43 @@
-# 03 | Executive Vulnerability Governance and Secure Change Investment
+# 02 | Executive Incident Decision-Making and Resilience
 
 ## Executive question
 
-How should finite remediation capacity be prioritised across customer-facing change, resilience and growth priorities without treating every CVSS score as the final business decision?
+When a potentially material cyber event is still uncertain, how should leadership make proportionate containment, communication and resilience decisions without overstating the facts?
 
 ## Fictional case study
 
-Luma Retail Group is a fictional omnichannel retailer preparing a seasonal release. Controlled assurance activity identifies application, host and configuration observations. Leadership needs a defensible process for risk-based remediation, exceptions and investment planning.
+Harbour Mutual is a fictional insurer. Its SIEM identifies possible port-scan activity after an employee reports a suspicious email and link click. There is no proof of compromise, data loss or incident. Leadership needs a clear decision process that preserves evidence, protects services and sets escalation thresholds.
 
 ## Authorised technical grounding
 
-- Web-request inspection and triage: Burp Suite.
-- Controlled vulnerability scanning/validation: Metasploit Framework.
-- Host auditing: Nmap and Lynis.
-- Vulnerability reference/prioritisation: CVE and CVSS.
-- OWASP, Nikto and OWASP ZAP learning in authorised labs where applicable.
+- Splunk and Wireshark analysis of network/port-scan evidence.
+- Phishing email-header and link triage.
+- Sample malware-PCAP forensics.
+- Snort detection and UFW/Snort alert correlation.
+- Selected security-operations and SIEM learning labs.
 
 ## Executive deliverables
 
-1. [Executive vulnerability-investment paper](docs/executive_vulnerability_investment_paper.md).
-2. Redacted authorised-lab evidence and a validated fictional findings register.
-3. A risk-based remediation queue generated from fictional data.
-4. A 90-day backlog-reduction plan and 12-month secure-change roadmap.
-5. Dashboard measures: critical-service exposure, finding ageing, expiring exceptions, validated closure and recurring root causes.
+1. [Executive incident decision paper](docs/executive_incident_decision_paper.md).
+2. Redacted lab evidence with timeline, source and confidence level.
+3. An incident-triage record and MITRE ATT&CK mapping where relevant.
+4. A 90-day exercise and control-improvement plan.
+5. An executive dashboard: alert-to-decision time, exercise readiness, action ageing and repeat-event trend.
 
-## Automation workflow
+## Incident decision workflow
 
 ```text
-Finding → validation → CVSS + exposure + asset criticality + controls → prioritisation queue
-→ remediation/change → exception or closure validation → executive trend reporting
+Alert → validation → evidence preservation → severity and business-impact assessment
+→ containment options → executive authority → recovery validation → lessons/actions → resilience reporting
 ```
-
-The automation is an illustrative prioritisation aid. A named risk owner still validates evidence, business impact, treatment and acceptance.
 
 ## Distinction standard
 
-Show why identical technical severity can require different business decisions. Include asset/service criticality, exposure, exploit context, compensating controls, testing, rollback, ownership, exception expiry and closure evidence.
+Distinguish an alert, event, investigation and confirmed incident. State evidence confidence and uncertainty. Treat privacy, legal, communications, continuity and regulatory-notification matters as decision points—not automatic conclusions.
 
 ## Interview prompts
 
-- Why should CVSS not be used as the only prioritisation factor?
-- What makes an exception acceptable, and how would you govern its expiry?
-- How would you demonstrate that an action has actually reduced risk?
+- What would move this from a security event to a confirmed incident?
+- Who is authorised to accept the business impact of isolating a critical device?
+- How would you brief an executive team when the facts are incomplete?
 
