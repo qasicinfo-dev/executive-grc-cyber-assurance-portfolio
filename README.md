@@ -44,6 +44,26 @@ The programme combines classroom learning, practical demonstrations, guided exer
 
 > **Training context:** Tools and techniques in this portfolio are explored in authorised learning environments. Course coverage does not imply certification, production experience or mastery of every tool.
 
+## Cybersecurity learning and practical coverage
+
+My cybersecurity learning extends across governance, security operations, networks, systems, incident response and vulnerability management. Through classroom teaching, demonstrations, guided exercises and authorised practice environments, I have explored and used the following concepts and tools. The depth of use varies by topic; the table describes my training coverage and is not a claim that every activity is evidenced by the three case studies below.
+
+| Learning area | Knowledge, tools and practical activities explored |
+|---|---|
+| **Security audit, governance and risk** | Information security principles and the CIA triad; security audits and control reviews; NIST Cybersecurity Framework and NIST Risk Management Framework; control evidence, risk assessment, remediation, security policies and incident response playbooks. |
+| **Network security and architecture** | TCP/IP model, network architecture and communication, ports and protocols, cloud networks, network security, security hardening and firewall principles; network discovery using Nmap and diagnostic utilities. |
+| **Linux, command line and SQL** | Linux and Bash command-line use, navigation, file permissions, logs and system administration in Kali Linux and Ubuntu; SQL concepts and queries for working with security-relevant information. |
+| **Assets, threats and vulnerabilities** | Asset identification and classification, authentication and access controls, cryptography and hashing, threat modelling, vulnerability assessment, CVE research and CVSS interpretation; considering exposure, exploit context and business criticality. |
+| **Detection and incident response** | Security operations, alert triage, escalation, incident response lifecycle, incident journals, playbooks and reporting; phishing analysis, evidence preservation, chain of custody and recovery considerations. |
+| **Network traffic analysis** | Packet capture and analysis concepts using Wireshark and tcpdump; examining network communication and observations to support investigation. |
+| **IDS and SIEM** | Intrusion detection concepts and tools including Suricata and Snort; SIEM concepts, log searching and alert investigation with Splunk and exploration of Chronicle, Wazuh and Microsoft Sentinel. |
+| **Host, application and cloud security** | Lynis and UFW; Windows and Linux logs; OWASP concepts, web-request inspection, OWASP Juice Shop, Burp Suite, OWASP ZAP and Nikto; cloud security and misconfiguration risks. |
+| **Vulnerability research and security testing** | Nmap, Nessus, OpenVAS, Metasploit Framework, CVE and CVSS in authorised training contexts; assessing findings and considering validation, remediation and secure change. |
+| **Digital forensics and password security** | Evidence handling and chain of custody, disk-imaging concepts, hashes and their use in integrity checks; John the Ripper and Hashcat in controlled password-security exercises. |
+| **Introductory Python and analysis** | Basic Python practice and security automation concepts; a fictional-data prioritisation example, with human judgement retained for the final decision. Python remains an area for further development. |
+
+My three executive case studies apply selected aspects of this wider learning to fictional business scenarios. I will continue to add clearly labelled, appropriately redacted examples of my own authorised lab work as the portfolio develops.
+
 ## Selected achievements
 
 - **Developed three executive cyber-risk case studies** connecting security observations with control assurance, incident decision-making, vulnerability prioritisation and business resilience.
@@ -86,7 +106,7 @@ The following tools and technologies appear across my training and portfolio. Th
 
 | Category | Tools and resources |
 |---|---|
-| **SIEM and detection** | Splunk, Wazuh, Microsoft Sentinel, Snort |
+| **SIEM and detection** | Splunk, Chronicle, Wazuh, Microsoft Sentinel, Snort, Suricata |
 | **Network investigation** | Wireshark, tcpdump, Nmap, Netcat, traceroute, ping, nslookup |
 | **Host and operating systems** | Kali Linux, Ubuntu/Linux, Lynis, UFW, Linux and Windows logs |
 | **Vulnerability and application security** | CVE, CVSS, Nessus, OpenVAS, Metasploit Framework, Burp Suite, OWASP ZAP, Nikto |
