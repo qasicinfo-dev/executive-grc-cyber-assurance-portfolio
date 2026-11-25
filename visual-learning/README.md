@@ -63,3 +63,14 @@ The Week 5 learning illustration brings together system logs, authentication rec
 **About these visuals:** These study illustrations come from my Week 4 and Week 5 learning materials. They are learning aids, not proof of a live incident or actual result. More examples can be added after checking their source, accuracy and suitability for public sharing.
 
 [Return to the main portfolio](../README.md)
+
+
+## 4. SIEM and threat-intelligence reporting
+
+These Week 1 study visuals connect log collection and correlation with threat research and clear reporting. The dashboard figures and lookup shown are illustrative; they are not captured lab results.
+
+![SIEM study illustration showing event sources and an example dashboard.](siem-overview.png)
+
+[Explore the SIEM, threat-intelligence and reporting guide](siem-threat-intelligence.md), including the purpose, workflow, limitations and connections to Projects 1 and 2.
+
+[Return to the main portfolio](../README.md)
