@@ -15,3 +15,6 @@ How can leadership gain confidence that key security controls are operating effe
 This is a fictional learning scenario, not a real client engagement. Images are illustrative reconstructions; they should not be treated as proof of a live incident or actual control operation. Recommendations and decisions are scenario-based.
 
 [Return to the portfolio](../README.md)
+
+
+[Illustration captions and context](SIMULATED_MOCKUPS_CAPTIONS.md)
