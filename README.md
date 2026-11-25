@@ -1,5 +1,10 @@
 # Tinu Adewumi | Cybersecurity and GRC Portfolio
 
+
+### Visual learning and practical workflows
+
+Explore my [visual learning collection](visual-learning/), where cybersecurity study illustrations are paired with explanations of the purpose, steps and limitations of each workflow. The initial examples cover Nmap and vulnerability management and connect to my Project 3 case study. The visuals are learning aids, not evidence that every depicted action was completed.
+
 [About me](#professional-statement) | [My cybersecurity training](#cybersecurity-training) | [Skills and knowledge](#skills-and-knowledge) | [Tools explored](#tools-and-technologies-explored) | [My projects](#portfolio-projects) | [Evidence and responsible use](#evidence-and-responsible-use)
 
 
