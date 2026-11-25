@@ -1,5 +1,8 @@
 # Tinu Adewumi | Cybersecurity and GRC Portfolio
 
+[About me](#professional-statement) | [My cybersecurity training](#cybersecurity-training) | [Skills and knowledge](#skills-and-knowledge) | [Tools explored](#tools-and-technologies-explored) | [My projects](#portfolio-projects) | [Evidence and responsible use](#evidence-and-responsible-use)
+
+
 **Cyber Risk • Governance and Assurance • Security Operations • Digital Resilience**
 
 Welcome to my cybersecurity portfolio. I’m Tinu Adewumi, a performance management, governance and transformation professional developing my technical cybersecurity and security operations capability.
