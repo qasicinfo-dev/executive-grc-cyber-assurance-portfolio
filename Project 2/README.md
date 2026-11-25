@@ -41,3 +41,9 @@ Distinguish an alert, event, investigation and confirmed incident. State evidenc
 - Who is authorised to accept the business impact of isolating a critical device?
 - How would you brief an executive team when the facts are incomplete?
 
+
+## Evidence context
+
+The P2-S specimen images are illustrative reconstructions of a fictional scenario, not captures from a live incident. See the [illustrative Splunk detection examples](splunk_detection_examples.md) and [incident decision pack](executive_incident_decision_pack.md).
+
+[Return to the portfolio](../README.md)
