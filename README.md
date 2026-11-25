@@ -62,6 +62,22 @@ My cybersecurity learning extends across governance, security operations, networ
 | **Digital forensics and password security** | Evidence handling and chain of custody, disk-imaging concepts, hashes and their use in integrity checks; John the Ripper and Hashcat in controlled password-security exercises. |
 | **Introductory Python and analysis** | Basic Python practice and security automation concepts; a fictional-data prioritisation example, with human judgement retained for the final decision. Python remains an area for further development. |
 
+### Learning and practical application
+
+The links below show **related applications of selected topics**. They do not mean that every tool named in a learning area was used in the linked project. Projects 1–3 are fictional case studies; the separate notes identify illustrative exercises and screenshot-based observations.
+
+| Learning area | Where to explore related work |
+|---|---|
+| Security audit and control assurance | [Project 1 — control assurance and remediation](Project%201/README.md) |
+| Network security and hardening | [Project 1 — host, firewall and monitoring assurance](Project%201/README.md) |
+| Linux and SQL | [Linux and SQL learning example](Learning-Examples/README.md#linux-and-sql-investigating-login-events) — illustrative commands and query, with no claimed result |
+| Assets, threats and vulnerabilities | [Project 3 — vulnerability governance and secure change](Project%203/README.md) |
+| Detection and incident response | [Project 2 — incident decisions and resilience](Project%202/README.md) |
+| Network traffic analysis | [Project 2 — incident scenario and packet-observation specimen](Project%202/README.md) |
+| IDS and SIEM | [Project 2 — incident scenario](Project%202/README.md); [Suricata learning example](Learning-Examples/README.md#ids-understanding-a-suricata-alert) — illustrative rule, not a captured alert |
+| Python and analysis | [Project 3 — fictional findings and prioritisation example](Project%203/README.md) — introductory learning |
+| Hashing and password security | [Hashcat training-run observations](Learning-Examples/README.md#hashcat-interpreting-a-salted-hash-training-run) — notes from a shared screenshot |
+
 My three executive case studies apply selected aspects of this wider learning to fictional business scenarios. I will continue to add clearly labelled, appropriately redacted examples of my own authorised lab work as the portfolio develops.
 
 ## Selected achievements
