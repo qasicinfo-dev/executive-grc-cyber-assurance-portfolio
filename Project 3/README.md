@@ -17,3 +17,6 @@ How should leaders prioritise limited remediation capacity against the most mate
 Luma Retail Group, the findings and the proposed decisions are fictional. Specimen images are illustrative reconstructions, not evidence of a live assessment. Authorised training labs and reconstructed examples should be clearly distinguished.
 
 [Return to the portfolio](../README.md)
+
+
+[Portfolio infographic captions](../INFOGRAPHICS_CAPTIONS.md)
